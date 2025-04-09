@@ -13,7 +13,7 @@ Kun ajat ohjelman, seuraava käyttöliittymä tulee näkyviin (how it works):
 ![image](https://github.com/user-attachments/assets/9b10f8fc-e560-4c86-b88c-baffe867e029)
 
 ...kokeile painaa eri painikkeita, tee valintoja ja huomaat pian ratkaisun toimintaperiaatteen - voit tallentaa
-käyttöliittymällä helposti dataa eri kansioihin ja tutustua tämän itse kerätyn aineiston avulla koneoppimisen perusteisiin.
+käyttöliittymällä helposti dataa eri kansioihin ja tutustua tämän itse kerätyn aineiston avulla vaikkapa koneoppimisen perusteisiin.
 
 (test the buttons and checkboxes and you soon get the gist of the example).
 
