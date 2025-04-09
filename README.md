@@ -1,5 +1,5 @@
 # tensorivirtauksia
-Tässä kansiossa on käytännöllistä tekoälyn toimintaperiaatteesen ja tensoreihin liittyvää esimerkkikoodia (example code about AI).
+Tässä kansiossa on käytännöllistä tekoälyn toimintaperiaatteeseen ja tensoreihin liittyvää esimerkkikoodia (example code about AI).
 
 ## Asennus (installation): 
 pip install numpy opencv-python pillow imutils mediapipe matplotlib tensorflow
